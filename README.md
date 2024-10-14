@@ -4,7 +4,7 @@
 I'm a Computer Science and Engineering student at the University of Nevada, I am passionate about<br>exploring the world of coding, machine learning, and developing scalable useful applications!
 
 # 🚀 What I'm Up To
-* ![image](https://github.com/user-attachments/assets/5ba9af5f-0749-4214-9d50-6f3ee4f3d3fd)
+* 🤖 Exploring Machine Learning with ![scikit-learn](https://scikit-learn.org/stable/).
 
 
 
