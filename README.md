@@ -1,6 +1,6 @@
 #  <p align="center">Hi 👋 I'm Justyce Hickman</p>
 
-## ✨ About Me:
+# ✨ About Me:
 I'm a Computer Science and Engineering student at the University of Nevada, I am passionate about<br>exploring the world of coding, machine learning, and developing scalable useful applications!
 
 # 🚀 What I'm Up To
