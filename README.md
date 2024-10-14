@@ -8,7 +8,9 @@ I'm a Computer Science and Engineering student at the University of Nevada, I am
 * 💻 Building Fullstack applications with NodeJS
 * 📊 Studying Data Structures and Algorithims
 
-
+# 🎓 About Me
+I also enjoy making content
+* [Tiktok](https://www.tiktok.com/@_kingmindset)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/justyce-hickman) 
