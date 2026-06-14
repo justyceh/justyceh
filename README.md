@@ -4,9 +4,9 @@
 I'm a Computer Science and Engineering student at the University of Nevada, I have found a love for exploring the world of coding, web development, and doing anything I can with my computer in my hand!
 
 # 🚀 What I'm Up To
-* 🤖 Workong on building hardware skills with embedded system design using my raspberry pi and arduino kits!
-* 💻 Currently working my first internship buildng the backend API, database and sc
-* 📊 Studying Data Structures and Algorithims
+* 🤖 Working on building hardware skills with embedded system design using my raspberry pi and arduino kits!
+* 💻 Currently working my first internship buildng the backend API, database and schema design with postgresql and supabase, and designing the frontend with claude & next.js
+* 📊 Studying Data Structures and Algorithim's in school
 
 # 🎓 About Me
 I love hiking
