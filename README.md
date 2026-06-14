@@ -1,16 +1,17 @@
 #  <p align="center">Hi 👋 I'm Justyce Hickman</p>
 
 # ✨ About Me:
-I'm a Computer Science and Engineering student at the University of Nevada, I am passionate about<br>exploring the world of coding, machine learning, and developing scalable useful applications!
+I'm a Computer Science and Engineering student at the University of Nevada, I have found a love for exploring the world of coding, web development, and doing anything I can with my computer in my hand!
 
 # 🚀 What I'm Up To
-* 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/stable/)
-* 💻 Building Fullstack applications with NodeJS
+* 🤖 Workong on building hardware skills with embedded system design using my raspberry pi and arduino kits!
+* 💻 Currently working my first internship buildng the backend API, database and sc
 * 📊 Studying Data Structures and Algorithims
 
 # 🎓 About Me
-I also enjoy making content
-* [Tiktok](https://www.tiktok.com/@_kingmindset)
+I love hiking
+I love working out
+I love coding and building games, apps, reading code
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/justyce-hickman) 
