@@ -80,3 +80,14 @@
 <h4 data-importer="text" align="left">- Hibachi Chef at a local restaurant 🔥</h4>
 
 ###
+
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/justycehickman" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="justycebusinessh@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
